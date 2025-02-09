@@ -1,16 +1,6 @@
-# task
+# My Trip Guide
 
-A new Flutter project.
+This is my first Flutter project. Created static pages for a Trip Guide App as a part of an internship task.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2025-02-09 at 5 04 34 PM (2)](https://github.com/user-attachments/assets/f5e73a83-803d-4223-906a-59fb8f83b9c1)
